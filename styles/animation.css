@@ -1,0 +1,11 @@
+@keyframes shadow-fade{
+	0%{
+		box-shadow: 0 0 0 0 #000;
+	}
+	50%{
+		box-shadow: 0 35px 65px 0 #000;
+	}
+	100%{
+		box-shadow: 0 35px 65px 15px #000;
+	}
+}
